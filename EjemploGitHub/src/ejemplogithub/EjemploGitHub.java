@@ -16,6 +16,7 @@ public class EjemploGitHub {
      */
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
+        System.out.println("Este es un programa de ejemplo para usar GitHub");
     }
     
 }
